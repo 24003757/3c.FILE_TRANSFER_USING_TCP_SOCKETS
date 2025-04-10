@@ -91,7 +91,29 @@ with socket.socket(socket.AF_INET, socket.SOCK_STREAM) as client_socket:
 
 ## OUPUT
 
+
+
+
+
+
+
+.
+
 ![image](https://github.com/user-attachments/assets/d5c23fe7-ec01-4ad0-ae8b-57f202cfcb71)
+
+
+
+
+
+
+
+
+
+
+
+
+
+.
 
 ![image](https://github.com/user-attachments/assets/f413f5ab-5ca4-42b2-b8e8-299d6de1ad0e)
 
